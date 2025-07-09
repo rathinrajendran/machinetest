@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family: 'Noto Sans', sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans',
+    'Droid Sans', 'Helvetica Neue';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Noto Sans', 'Source Code Pro', Menlo, Monaco, Consolas,
+    'Courier New', monospace;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+label,
+input,
+button
+{
+  font-family: 'Noto Sans', sans-serif;
+}
+
+
+.text-gray-3C { 
+  color: #3C3C3C; 
+}
+.text-gray-3D { 
+  color: #3D3D3D; 
+}
+.text-gray-3E { 
+  color: #3E3E3E; 
+}
+a {
+  color: #587FFF;
+}
+.form-check .form-check-input:not([type="checkbox"]) {
+    border: solid 2px #000000;
+    border-radius: 0 !important;
+    background: #F2F2F2;
+    height: 32px;
+    width: 32px;
+    box-shadow: none !important;
+    margin: 0 !important;
+    cursor: pointer;
+  }
+
+
