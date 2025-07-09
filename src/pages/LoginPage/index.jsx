@@ -128,9 +128,9 @@ const LoginPage = () => {
 
         <Col
           md={6}
-          className="mb-4 mb-md-0 d-flex align-items-center justify-content-center"
+          className="mb-4 mb-md-0 d-flex align-items-center justify-content-center d-none d-md-block"
         >
-          <div className="h-100">
+          <div className="h-100 ps-5 ms-5">
             <img src={bg} className="h-100" alt="Background" />
           </div>
         </Col>
